@@ -8,9 +8,9 @@ This project is going to utilize semantic versioning for its tagging.
 
 The genral formt:
 
-- .**Major.Minor.Patch**, eg. 1
+- **Major.Minor.Patch**, eg. 1
 
-- .**MAJOR** version when you make 
+- **MAJOR** version when you make 
 incompatible API changes 
-- .**MINOR** version when you add functionality in a backwardcompatible maner
+- **MINOR** version when you add functionality in a backwardcompatible maner
 **PATHC version when you make backward compatible bug fixes
